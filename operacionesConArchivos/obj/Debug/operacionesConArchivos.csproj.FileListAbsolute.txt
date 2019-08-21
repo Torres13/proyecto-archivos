@@ -1,0 +1,10 @@
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.exe.config
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.exe
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.pdb
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.Form1.resources
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.Properties.Resources.resources
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.exe
+C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.pdb
