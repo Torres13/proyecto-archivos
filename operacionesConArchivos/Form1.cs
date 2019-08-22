@@ -44,8 +44,9 @@ namespace operacionesConArchivos
                 nombreArchivo = saveDialog.FileName;
                 archivo = new FileStream(nombreArchivo + ".BIN", FileMode.CreateNew,FileAccess.Write);
                 BinaryWriter bw = new BinaryWriter(archivo);
-                long cab = -1;
-                bw.Write("-1");
+                int cab = -1;
+                bw.Write(cab);
+              //  bw.Write("-1");
                 archivo.Close();
 
 
@@ -73,9 +74,14 @@ namespace operacionesConArchivos
 
             archivo.Seek(0, SeekOrigin.Begin);
             BinaryReader br = new BinaryReader(archivo);
+
             long tamañoArch = archivo.Length;
+            tamañoArch = tamañoArch-sizeof(Int32);
+            int numLeido = br.ReadInt32();
+            
             char[] leidos = br.ReadChars((int)tamañoArch);
             string sLeidos = new string(leidos);
+            textBoxNumeros.Text = numLeido.ToString();
             textBoxTest.Text = sLeidos;
             archivo.Close();
         }
@@ -90,7 +96,10 @@ namespace operacionesConArchivos
             {
                 archivo = new FileStream(nombreArchivo, FileMode.Open, FileAccess.Write); //abrimos el archivo 
                 BinaryWriter bw = new BinaryWriter(archivo);
+
                 archivo.Seek(0, SeekOrigin.Begin);
+                int temp = Int32.Parse(textBoxNumeros.Text);
+                bw.Write(temp);
                 bw.Write(textBoxTest.Text);
                 archivo.Close();
             }

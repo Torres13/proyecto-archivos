@@ -39,7 +39,7 @@
             this.labelArchEditandose = new System.Windows.Forms.Label();
             this.textBoxTest = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.textBoxNumeros = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -129,21 +129,19 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Escribe algo aqui";
             // 
-            // button1
+            // textBoxNumeros
             // 
-            this.button1.Location = new System.Drawing.Point(371, 318);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.textBoxNumeros.Location = new System.Drawing.Point(318, 286);
+            this.textBoxNumeros.Name = "textBoxNumeros";
+            this.textBoxNumeros.Size = new System.Drawing.Size(185, 20);
+            this.textBoxNumeros.TabIndex = 4;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.textBoxNumeros);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxTest);
             this.Controls.Add(this.labelArchEditandose);
@@ -172,7 +170,7 @@
         private System.Windows.Forms.Label labelArchEditandose;
         private System.Windows.Forms.TextBox textBoxTest;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox textBoxNumeros;
     }
 }
 
