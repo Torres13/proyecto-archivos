@@ -8,3 +8,13 @@ C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\De
 C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csproj.CoreCompileInputs.cache
 C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.exe
 C:\Users\josue\source\repos\operacionesConArchivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.pdb
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.exe.config
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.exe
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\bin\Debug\operacionesConArchivos.pdb
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.Form1.resources
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.Properties.Resources.resources
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.exe
+C:\Users\josue\Desktop\Proyecto Archivos\proyecto-archivos\operacionesConArchivos\obj\Debug\operacionesConArchivos.pdb
